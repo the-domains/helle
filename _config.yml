@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0.9317032
+  brandStrength: 0.7630692
+  lightness: 1
+  brandColors:
+    - '#F3F2F1'
+    - '#151319'
+    - '#C6C4BF'
+    - '#7F7064'
+    - '#BE9177'
+  rhythmicContrast: 0.3060708
+typography_spectrum: 0.8456998
+name: Helle
