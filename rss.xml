@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Helle]]></title>
-        <description><![CDATA[Helle]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Helles testblogg]]></title>
+        <description><![CDATA[Helles testblogg]]></description>
+        <link>https://thegrid.ai/helle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 21:53:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Jan 2016 22:08:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/helle/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eba098e4-aaea-4bfe-8bb4-12365427ed0a.jpg">]]></description>
+            <link>https://thegrid.ai/helle/c0412127-cecf-4cd4-a166-0781581a60fc/index.html</link>
+            <guid isPermaLink="false">c0412127-cecf-4cd4-a166-0781581a60fc</guid>
+            <pubDate>Mon, 25 Jan 2016 22:08:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e04a249-c5ef-45dc-9696-86e12c6ce6e4.jpg">]]></description>
-            <link>undefined0d8b0971-b2cd-435e-b01c-51d7a11a6d55/index.html</link>
+            <link>https://thegrid.ai/helle/0d8b0971-b2cd-435e-b01c-51d7a11a6d55/index.html</link>
             <guid isPermaLink="false">0d8b0971-b2cd-435e-b01c-51d7a11a6d55</guid>
             <pubDate>Mon, 25 Jan 2016 21:53:03 GMT</pubDate>
         </item>
