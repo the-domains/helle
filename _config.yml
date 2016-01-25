@@ -1,6 +1,6 @@
 name: Helle
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.2571
 typography_spectrum: 0.8456998
 title: Helles testblogg
 cta:
@@ -22,8 +22,8 @@ color:
     - '#C6C4BF'
     - '#7F7064'
     - '#BE9177'
-  brandStrength: 0.7630692
+  brandStrength: 0.5
   lightness: 1
   saturation: 0.9317032
-  rhythmicContrast: 0.3060708
+  rhythmicContrast: 0.5
 purpose: []
