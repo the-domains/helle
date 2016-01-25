@@ -4,8 +4,15 @@
         <description><![CDATA[Helles testblogg]]></description>
         <link>https://thegrid.ai/helle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 22:08:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jan 2016 22:10:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/helle/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3e37a64-88bd-4e80-bb7f-f636406e2a9b.jpg">]]></description>
+            <link>https://thegrid.ai/helle/9da16884-247e-4cbe-8c88-346a7ecee6e2/index.html</link>
+            <guid isPermaLink="false">9da16884-247e-4cbe-8c88-346a7ecee6e2</guid>
+            <pubDate>Mon, 25 Jan 2016 22:10:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eba098e4-aaea-4bfe-8bb4-12365427ed0a.jpg">]]></description>
